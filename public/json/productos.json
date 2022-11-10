@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "idCategoria": 1,
+    "nombre": "Alianaza Basica",
+    "material": "Oro",
+    "precio": 60000,
+    "stock": 30,
+    "img": "alianzaUno.jpg"
+  },
+  {
+    "id": 2,
+    "idCategoria": 1,
+    "nombre": "Alianza compleja",
+
+    "material": "Oro",
+    "precio": 35000,
+    "stock": 20,
+    "img": "alianzaDos.jpg"
+  },
+  {
+    "id": 3,
+    "idCategoria": 1,
+    "nombre": "Alianza luna de miel",
+
+    "material": "Oro rosado",
+    "precio": 57000,
+    "stock": 15,
+    "img": "alianzaTres.png"
+  },
+  {
+    "id": 4,
+    "idCategoria": 1,
+    "nombre": "Alianza Real ",
+
+    "material": "Oro blanco",
+    "precio": 8000,
+    "stock": 30,
+    "img": "alianzaCuatro.jpg"
+  },
+  {
+    "id": 5,
+    "idCategoria": 2,
+    "nombre": "Cadena simple",
+
+    "material": "Plata",
+    "precio": 1400,
+    "stock": 7,
+    "img": "cadenaUno.jpg"
+  },
+  {
+    "id": 6,
+    "idCategoria": 2,
+    "nombre": "Cadena slice",
+
+    "material": "Plata",
+    "precio": 4000,
+    "stock": 20,
+    "img": "cadenaDos.jpg"
+  },
+  {
+    "id": 7,
+    "idCategoria": 2,
+    "nombre": "Cubana",
+    "material": "Oro",
+    "precio": 250000,
+    "stock": 10,
+    "img": "cadenaTres.jpg"
+  },
+  {
+    "id": 8,
+    "idCategoria": 3,
+    "nombre": "Dige basico",
+    "material": "Oro",
+    "precio": 45000,
+    "stock": 30,
+    "img": "colganteUno.jpg"
+  },
+  {
+    "id": 9,
+    "idCategoria": 3,
+    "nombre": "Trebol",
+
+    "material": "SPK200",
+    "precio": 34000,
+    "stock": 21,
+    "img": "colgantesDos.jpg"
+  },
+  {
+    "id": 10,
+    "idCategoria": 4,
+    "nombre": "Pulsera simple",
+
+    "material": "M1 2020",
+    "precio": 13000,
+    "stock": 25,
+    "img": "pulseraUno.jpg"
+  },
+  {
+    "id": 11,
+    "idCategoria": 4,
+    "nombre": "Pulsera",
+
+    "material": "S20",
+    "precio": 85000,
+    "stock": 30,
+    "img": "pulseraDos.jpg"
+  },
+  {
+    "id": 12,
+    "idCategoria": 4,
+    "nombre": "Pulsera",
+    "material": "Pavilion 15",
+    "precio": 120000,
+    "stock": 20,
+    "img": "pulseraTres.jpg"
+  }
+]
